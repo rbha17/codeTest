@@ -1,0 +1,32 @@
+<resources>
+        <string name="app_name">Inteliment</string>
+
+        <string name="tab_item_1">Tab Item 1</string>
+        <string name="tab_item_2">Tab Item 2</string>
+        <string name="tab_item_3">Tab Item 3</string>
+        <string name="tab_item_4">Tab Item 4</string>
+        <string name="tab_item_5">Tab Item 5</string>
+
+
+        <string name="text_1">Text View 1</string>
+        <string name="text_2">Text View 2</string>
+        <string name="text_3">Text View 3</string>
+
+
+        <string name="white">White</string>
+        <string name="blue">Blue</string>
+        <string name="red">Grey</string>
+
+
+        <string name="tab_selected">Tab selected : </string>
+        <string name="fragment_one">Fragment One</string>
+        <string name="fragment_two">Fragment Two</string>
+        <string name="fragment_three">Fragment Three</string>
+        <string name="fragment_four">Fragment Four</string>
+
+        <!-- Navigation Screen -->
+        <string name="mode_of_transport">Mode of Transport</string>
+        <string name="navigate">Navigate</string>
+        <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyA2JFWc4psap1B8U6-f5AwmRCe8KaN8miM</string>
+
+    </resources>
